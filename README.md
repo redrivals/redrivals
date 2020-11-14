@@ -1,8 +1,10 @@
 
 
 
+<p align="center">
+  <img src="Peachpuff Brush Stroke Photography Logo.png" />
+</p>
 
-<img src="Peachpuff Brush Stroke Photography Logo.png" >
 
 
 

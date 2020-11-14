@@ -1,6 +1,6 @@
 ### Hey Visitor 👋
 
-![](redrivals/redrivals/Peachpuff Brush Stroke Photography Logo.png)
+![](Peachpuff Brush Stroke Photography Logo.png)
 
 ### Overview:
 LANGUAGES : Python, C

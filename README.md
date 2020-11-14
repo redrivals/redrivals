@@ -1,6 +1,6 @@
 ### Hey Visitor 👋
 
-<img src= "Peachpuff Brush Stroke Photography Logo.png">
+<img src= "Peachpuff Brush Stroke Photography Logo.png" class="center">
 ### Overview:
 LANGUAGES : Python, C
 PYTHON PACKAGES : Pandas, Numpy, Sklearn, Matplotlib, Plotly, BeautifulSoup ,Selenium ,Seaborn and it goes on!!!

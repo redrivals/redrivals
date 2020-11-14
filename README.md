@@ -20,4 +20,5 @@
 #### - 🔭 I’m currently working on Ml Project
 #### - 🌱 I’m currently learning Advance Deep Learning
 #### - 💬 Ask me about anything on [My Personal Mail](mailto:yameenkhan9@gmail.com)
+#### - :bookmark_tabs: My [resume](shorturl.at/dgzBD)
 

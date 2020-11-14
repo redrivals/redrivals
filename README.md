@@ -1,5 +1,7 @@
 ### Hey Visitor 👋
-![](redrivals/Peachpuff Brush Stroke Photography Logo.png)
+
+![](redrivals/redrivals/Peachpuff Brush Stroke Photography Logo.png)
+
 ### Overview:
 LANGUAGES : Python, C
 PYTHON PACKAGES : Pandas, Numpy, Sklearn, Matplotlib, Plotly, BeautifulSoup ,Selenium ,Seaborn and it goes on!!!

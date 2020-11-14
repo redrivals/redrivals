@@ -1,12 +1,6 @@
-
-
-
 <p align="center">
   <img src="Peachpuff Brush Stroke Photography Logo.png" />
 </p>
-
-
-
 
 ### Overview:
 LANGUAGES : Python, C
